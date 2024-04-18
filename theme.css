@@ -79,6 +79,23 @@ div[data-screen-name='rcp-fe-lol-navigation-screen'] {
     background: linear-gradient(#3f2375, #c100d81a 18%)!important;
 }
 
+.section, :host-context(lol-uikit-navigation-bar[type=nav-bar-secondary]) .section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    color: #f1f1f1!important;
+    border: none;
+    margin: 0;
+    text-decoration: none;
+    outline: none;
+    transition: text-shadow 0.3s ease-in-out, background 1.5s;
+    width: 100%;
+    height: 100%;
+    min-height: 20px;
+    cursor: pointer;
+}
+
 .section.active .section-glow {
     height: 1px;
     width: 100%;
@@ -127,7 +144,7 @@ div[data-screen-name='rcp-fe-lol-navigation-screen'] {
     position: absolute;
     pointer-events: none;
     opacity: 0;
-    filter: hue-rotate(0deg)!important;
+    filter: hue-rotate(50deg)!important;
 }
 
 lol-uikit-full-page-backdrop {
