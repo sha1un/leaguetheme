@@ -76,7 +76,6 @@ div[data-screen-name='rcp-fe-lol-navigation-screen'] {
     cursor: default;
     -webkit-user-drag: none;
     -webkit-user-select: none;
-    background: linear-gradient(#3f2375, #c100d81a 18%)!important;
 }
 
 .section, :host-context(lol-uikit-navigation-bar[type=nav-bar-secondary]) .section {
