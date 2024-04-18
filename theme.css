@@ -318,7 +318,7 @@ lol-uikit-full-page-backdrop {
 }
 
 .lol-loading-screen-container.lol-loading-screen-default-state{
-  /* background: url(https://ibb.co/fq0kbWn') #0F051F no-repeat !important; */
+  /* background: url(https://i.ibb.co/QpmPZVC/qq9rnxx4sg971.png') #0F051F no-repeat !important; */
   background: #0F051F !important;
   /* opacity: 0.6 !important;  */
 }
@@ -350,22 +350,22 @@ lol-social-status .status-message.dnd{
 }
 
 :host .lol-uikit-background-switcher-image{
-  content: url(https://ibb.co/fq0kbWn) !important;
+  content: url(https://i.ibb.co/QpmPZVC/qq9rnxx4sg971.png) !important;
   box-shadow: inset 0 0 0 1000px rgba(0,0,0,.5);
   filter:blur(10px);
   width: auto !important;
 }
 
 .parties-view .parties-background lol-uikit-background-switcher{
-  content: url(https://ibb.co/fq0kbWn) !important;
+  content: url(https://i.ibb.co/QpmPZVC/qq9rnxx4sg971.png) !important;
   box-shadow: inset 0 0 0 1000px rgba(0,0,0,.5);
-  filter:blur(10px);
+  filter:blur(5px);
   width: auto !important;
 }
 .parties-view .parties-background .uikit-background-switcher{
-  content: url(https://ibb.co/fq0kbWn) !important;
+  content: url(https://i.ibb.co/QpmPZVC/qq9rnxx4sg971.png) !important;
   box-shadow: inset 0 0 0 1000px rgba(0,0,0,.5);
-  filter:blur(10px);
+  filter:blur(5px);
   width: auto !important;
 }
 
