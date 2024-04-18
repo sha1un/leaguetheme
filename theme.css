@@ -144,7 +144,7 @@ div[data-screen-name='rcp-fe-lol-navigation-screen'] {
     position: absolute;
     pointer-events: none;
     opacity: 0;
-    filter: hue-rotate(49deg)!important;
+    filter: hue-rotate(0deg)!important;
 }
 
 lol-uikit-full-page-backdrop {
@@ -161,7 +161,7 @@ lol-uikit-full-page-backdrop {
     width: 1055px;
     height: 718px;
     overflow: hidden;
-    filter: hue-rotate(50deg);
+    filter: hue-rotate(0deg);
 }
 
 .game-type-card .parties-game-type-upper-half {
