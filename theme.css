@@ -57,28 +57,6 @@ div[data-screen-name='rcp-fe-lol-navigation-screen'] {
     background: #000;
     filter: drop-shadow(1px 1px 10px #9100ff) !important; 
 }
-
-#rcp-fe-viewport-root #rcp-fe-lol-navigation-app {
-    pointer-events: none;
-    position: relative;
-    z-index: 10;
-    background: #7a00ff24!important;
-}
-
-.lol-social-sidebar {
-    width: 100%;
-    height: 100%;
-    position: relative;
-    display: flex;
-    flex-direction: column;
-    color: #a09b8c;
-    font-size: 12px;
-    cursor: default;
-    -webkit-user-drag: none;
-    -webkit-user-select: none;
-    background: linear-gradient(#3f2375, #c100d81a 18%)!important;
-}
-
 .section, :host-context(lol-uikit-navigation-bar[type=nav-bar-secondary]) .section {
     display: flex;
     align-items: center;
