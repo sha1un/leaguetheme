@@ -156,7 +156,7 @@ lol-uikit-full-page-backdrop {
     top: 0;
     bottom: 0;
 }
-*/
+
 .loot-backdrop {
     position: absolute;
     width: 1055px;
@@ -164,7 +164,7 @@ lol-uikit-full-page-backdrop {
     overflow: hidden;
     filter: hue-rotate(49deg);
 }
-
+*/
 .game-type-card .parties-game-type-upper-half {
     position: relative;
     cursor: pointer;
