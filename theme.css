@@ -78,7 +78,8 @@ div[data-screen-name='rcp-fe-lol-navigation-screen'] {
     -webkit-user-select: none;
     background: linear-gradient(#3f2375, #c100d81a 18%)!important;
 }
-/*верхние кнопки в лобби?*/
+/*Кнопки навигации в коллектиблсах*/
+/*
 .section, :host-context(lol-uikit-navigation-bar[type=nav-bar-secondary]) .section {
     display: flex;
     align-items: center;
@@ -95,7 +96,7 @@ div[data-screen-name='rcp-fe-lol-navigation-screen'] {
     min-height: 20px;
     cursor: pointer;
 }
-
+*/
 .section.active .section-glow {
     height: 1px;
     width: 100%;
@@ -165,8 +166,7 @@ lol-uikit-full-page-backdrop {
     filter: hue-rotate(49deg);
 }
 */
-/*Кнопка лобби?*/
-/*
+
 .game-type-card .parties-game-type-upper-half {
     position: relative;
     cursor: pointer;
@@ -179,7 +179,7 @@ lol-uikit-full-page-backdrop {
     display: block;
     filter: saturate(0);
 }
-*/
+
 #rcp-fe-viewport-root > .rcp-fe-viewport-full-screen {
     background-color: transparent;
     position: absolute;
@@ -424,9 +424,9 @@ lol-social-avatar:not([disabled]):hover .summoner-level-ring{
   filter: hue-rotate(-131deg);
 }
 
-/* lol-uikit-navigation-bar{
+ lol-uikit-navigation-bar{
   filter: hue-rotate(-131deg);
-} */
+} 
 
 .navigation-bar.left{
   filter: hue-rotate(-131deg);
@@ -796,7 +796,7 @@ lol-uikit-flat-button-secondary{
 }*/
 
 .basic-button{
-  left: 450px !important;
+  left: 300px !important;
   height: 48px !important;
   width: 122px !important;
   top: 15px !important;
