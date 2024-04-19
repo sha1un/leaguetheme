@@ -804,7 +804,8 @@ lol-uikit-flat-button-secondary{
 }
 */
 .basic-button{
-  margin-left: -200px !important!;
+  position: relative;
+  margin-left: -250px !important!;
 }
 .left-nav-menu{
     position: relative !important;
