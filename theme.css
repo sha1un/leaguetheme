@@ -139,7 +139,7 @@ div[data-screen-name='rcp-fe-lol-navigation-screen'] {
     cursor: pointer;
     font-family: 'Orbitron', sans-serif!important;
 }
-/*Анимация на фоне лута?*/
+/*Анимация на фоне лута*/
 /*
 ::content .lol-uikit-video-content {
     position: absolute;
@@ -165,6 +165,8 @@ lol-uikit-full-page-backdrop {
     filter: hue-rotate(49deg);
 }
 */
+/*Кнопка лобби?*/
+/*
 .game-type-card .parties-game-type-upper-half {
     position: relative;
     cursor: pointer;
@@ -177,7 +179,7 @@ lol-uikit-full-page-backdrop {
     display: block;
     filter: saturate(0);
 }
-
+*/
 #rcp-fe-viewport-root > .rcp-fe-viewport-full-screen {
     background-color: transparent;
     position: absolute;
