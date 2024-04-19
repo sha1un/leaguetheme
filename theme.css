@@ -122,7 +122,7 @@ div[data-screen-name='rcp-fe-lol-navigation-screen'] {
     text-shadow: 0px 1px 15px white!important;
     font-family: 'Orbitron', sans-serif!important;
 }
-/**/
+/*
 .section, :host-context(lol-uikit-navigation-bar[type=nav-bar-secondary]) .section {
     display: flex;
     align-items: center;
@@ -139,6 +139,7 @@ div[data-screen-name='rcp-fe-lol-navigation-screen'] {
     min-height: 20px;
     cursor: pointer;
     font-family: 'Orbitron', sans-serif!important;
+  */
 }
 /*Анимация на фоне лута*/
 /*
