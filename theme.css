@@ -79,12 +79,12 @@ div[data-screen-name='rcp-fe-lol-navigation-screen'] {
     background: linear-gradient(#3f2375, #c100d81a 18%)!important;
 }
 /*Кнопки навигации в коллектиблсах*/
-
+/*
 .section, :host-context(lol-uikit-navigation-bar[type=nav-bar-secondary]) .section {
     display: flex;
     align-items: center;
     justify-content: center;
-    /*position: relative;*/
+    position: relative;
     color: #f1f1f1!important;
     border: none;
     margin: 0;
@@ -96,7 +96,7 @@ div[data-screen-name='rcp-fe-lol-navigation-screen'] {
     min-height: 20px;
     cursor: pointer;
 }
-
+*/
 .section.active .section-glow {
     height: 1px;
     width: 100%;
