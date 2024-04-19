@@ -191,7 +191,7 @@ lol-uikit-full-page-backdrop {
     -webkit-user-select: none;
     box-shadow: inset 0px 0px 40px rgba(157, 0, 255, 0.23);
 }
-
+/*
 .availability-icon{
     background-color: #6523CF !important;
     border-color: #7D5FFF !important;
@@ -223,7 +223,7 @@ lol-uikit-full-page-backdrop {
 .status-message.game-status.chat{
   color: #873AC9 !important;
 }
-
+*/
 
 
 .lol-loading-screen-lol-icon{
