@@ -795,18 +795,13 @@ lol-uikit-flat-button-secondary{
   width: auto !important;
 }*/
 
-/*
 .basic-button{
-  left: 470px !important;
+  left: 250px !important;
   height: 48px !important;
   width: 122px !important;
   top: 15px !important;
 }
-*/
-.basic-button{
-  position: relative;
-  margin-left: -250px !important!;
-}
+
 .left-nav-menu{
     position: relative !important;
     margin-left: -200px !important;
