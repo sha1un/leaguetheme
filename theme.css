@@ -259,7 +259,7 @@ lol-uikit-full-page-backdrop {
 .play-button-text{
   color: #fff !important;
   font-family: 'Open Sans', sans-serif !important;
-  content: '▶ PLAY' !important;
+  content: '▶ ИГРАТЬ' !important;
   visibility: hidden;
   z-index: 0 !important;
 }
