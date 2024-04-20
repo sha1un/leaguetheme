@@ -116,13 +116,13 @@ div[data-screen-name='rcp-fe-lol-navigation-screen'] {
  .section.active {
     background-image: linear-gradient(0deg, rgba(157, 84, 255, 0.3) 0%, rgba(34, 0, 66, 0.19) 55%)!important;
 }
-/*
+
 .section.active, :host-context(lol-uikit-navigation-bar[type=nav-bar-secondary]) .section.active {
     color: #ffffff!important;
     text-shadow: 0px 1px 15px white!important;
     font-family: 'Orbitron', sans-serif!important;
 }
-*/
+
 /*
 .section, :host-context(lol-uikit-navigation-bar[type=nav-bar-secondary]) .section {
     display: flex;
@@ -726,7 +726,7 @@ lol-social-chat-input .chat-input{
 .dialog-content{
   filter: hue-rotate(131deg) !important;
 } 
-
+/*
 :host .lol-uikit-flyout-frame-wrapper.top .sub-border::before, :host .lol-uikit-flyout-frame-wrapper.bottom .sub-border::before{
   filter: hue-rotate(-131deg) !important;
 }
@@ -734,7 +734,7 @@ lol-social-chat-input .chat-input{
 :host .lol-uikit-flyout-frame-wrapper.bottom .border{
   filter: hue-rotate(-131deg) !important;
 }
-
+*/
 lol-uikit-flat-button-group{
   /* filter: hue-rotate(-131deg); */
 }
