@@ -977,3 +977,6 @@ lol-social-roster .more-unread .more-unread-bar{
 .gem {
   filter: hue-rotate(-145deg);
 }
+.flyout-selector-button-container {
+  filter: invert(100%);
+}
