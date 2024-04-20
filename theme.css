@@ -976,10 +976,10 @@ lol-social-roster .more-unread .more-unread-bar{
 }
 .gem {
   filter: hue-rotate(-220deg);
-  /*filter: contrast(125%);*/
+  filter: contrast(105%);
 }
 .flyout-selector-button-container {
   filter: hue-rotate(131deg);
-  /*filter: brightness(115%);
-  filter: contrast(125%);*/
+  filter: brightness(105%);
+  filter: contrast(105%);
 }
