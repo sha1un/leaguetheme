@@ -974,12 +974,15 @@ lol-social-chat-window .conversation.active::before{
 lol-social-roster .more-unread .more-unread-bar{
   background-color: #BB86FF !important;
 }
+/*Рарность скинов*/
 .gem {
   filter: hue-rotate(-220deg);
-  filter: contrast(105%);
 }
+/*Фильтр саммонерок на выборе чемпионов*/
 .flyout-selector-button-container {
   filter: hue-rotate(131deg);
-  filter: brightness(105%);
-  filter: contrast(105%);
+
+}
+#lol-uikit-navigation-bar > .ember-view{
+  filter: hue-rotate(131deg);
 }
