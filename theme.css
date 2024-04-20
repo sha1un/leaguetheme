@@ -979,3 +979,6 @@ lol-social-chat-window .conversation.active::before{
 lol-social-roster .more-unread .more-unread-bar{
   background-color: #BB86FF !important;
 }
+.gem {
+  filter: brightness(0) invert(1) sepia(1) saturate(5) hue-rotate(200deg);
+}
