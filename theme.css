@@ -573,11 +573,11 @@ hr{
 lol-uikit-tooltip-root{
   filter: hue-rotate(-131deg) !important;
 }
-
+*/
 #lol-uikit-tooltip-root > div{
   filter: hue-rotate(-131deg) !important;
 }
-*/
+
 .style-profile-sub-nav{
   filter: hue-rotate(-131deg) !important;
 }
@@ -609,11 +609,11 @@ lol-uikit-tooltip-root{
 .lock-icon{
   filter: hue-rotate(-131deg) !important;
 }
-
+/*
 .champion-mastery-badge{
   filter: hue-rotate(-131deg) !important;
 }
-
+*/
 .yourshop-header-riot {
   filter: hue-rotate(-131deg) !important;
 }
