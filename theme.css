@@ -123,15 +123,14 @@ div[data-screen-name='rcp-fe-lol-navigation-screen'] {
     font-family: 'Orbitron', sans-serif!important;
 }
 
-/*
 .section, :host-context(lol-uikit-navigation-bar[type=nav-bar-secondary]) .section {
-    display: flex;
+    /*display: flex;
     align-items: center;
     justify-content: center;
-    position: relative;
+    position: relative; */
     color: #facfffc2!important;
     border: none;
-    margin: 0;
+    /*margin: 0; */
     text-decoration: none;
     outline: none;
     transition: text-shadow 0.3s ease-in-out, background 1.5s;
@@ -139,8 +138,8 @@ div[data-screen-name='rcp-fe-lol-navigation-screen'] {
     height: 100%;
     min-height: 20px;
     cursor: pointer;
-    font-family: 'Orbitron', sans-serif!important;
-  */
+    /*font-family: 'Orbitron', sans-serif!important;*/
+  
 }
 /*Анимация на фоне лута*/
 /*
@@ -425,10 +424,6 @@ lol-social-avatar:not([disabled]):hover .summoner-level-ring{
 .lol-uikit-dialog-frame {
   filter: hue-rotate(-131deg);
 }
-/*
- lol-uikit-navigation-bar{
-  filter: hue-rotate(-131deg);
-} */
 
 .navigation-bar.left{
   filter: hue-rotate(-131deg);
@@ -980,5 +975,5 @@ lol-social-roster .more-unread .more-unread-bar{
   background-color: #BB86FF !important;
 }
 .gem {
-  filter: brightness(0) invert(1) sepia(1) saturate(5) hue-rotate(200deg);
+  filter: hue-rotate(-131deg);
 }
