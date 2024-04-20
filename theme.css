@@ -981,7 +981,7 @@ lol-social-roster .more-unread .more-unread-bar{
 /*Фильтр саммонерок на выборе чемпионов*/
 .flyout-selector-button-container {
   filter: hue-rotate(131deg);
-
+/*Кнопки навигации в коллекциях*/
 }
 #lol-uikit-navigation-bar > .ember-view{
   filter: hue-rotate(131deg);
