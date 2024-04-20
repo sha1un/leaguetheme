@@ -79,7 +79,7 @@ div[data-screen-name='rcp-fe-lol-navigation-screen'] {
     background: linear-gradient(#3f2375, #c100d81a 18%)!important;
 }
 /*Кнопки навигации в коллектиблсах*/
-/*
+
 .section, :host-context(lol-uikit-navigation-bar[type=nav-bar-secondary]) .section {
     display: flex;
     align-items: center;
@@ -96,7 +96,7 @@ div[data-screen-name='rcp-fe-lol-navigation-screen'] {
     min-height: 20px;
     cursor: pointer;
 }
-*/
+
 .section.active .section-glow {
     height: 1px;
     width: 100%;
@@ -116,12 +116,13 @@ div[data-screen-name='rcp-fe-lol-navigation-screen'] {
  .section.active {
     background-image: linear-gradient(0deg, rgba(157, 84, 255, 0.3) 0%, rgba(34, 0, 66, 0.19) 55%)!important;
 }
-
+/*
 .section.active, :host-context(lol-uikit-navigation-bar[type=nav-bar-secondary]) .section.active {
     color: #ffffff!important;
     text-shadow: 0px 1px 15px white!important;
     font-family: 'Orbitron', sans-serif!important;
 }
+*/
 /*
 .section, :host-context(lol-uikit-navigation-bar[type=nav-bar-secondary]) .section {
     display: flex;
@@ -568,7 +569,7 @@ hr{
 .loot-to-store-button {
   filter: hue-rotate(-131deg) !important;
 }
-
+/*
 lol-uikit-tooltip-root{
   filter: hue-rotate(-131deg) !important;
 }
@@ -576,7 +577,7 @@ lol-uikit-tooltip-root{
 #lol-uikit-tooltip-root > div{
   filter: hue-rotate(-131deg) !important;
 }
-
+*/
 .style-profile-sub-nav{
   filter: hue-rotate(-131deg) !important;
 }
