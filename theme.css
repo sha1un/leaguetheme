@@ -569,10 +569,11 @@ lol-uikit-tooltip-root{
   filter: hue-rotate(-131deg) !important;
 }
 */
+/*
 #lol-uikit-tooltip-root > div{
   filter: hue-rotate(-131deg) !important;
 }
-
+*/
 .style-profile-sub-nav{
   filter: hue-rotate(-131deg) !important;
 }
@@ -757,11 +758,11 @@ lol-uikit-flat-button-secondary{
 .lol-uikit-dialog-frame{
   filter: hue-rotate(-131deg) !important;
 }
-
+/*
 .mission-tooltip{
   filter: hue-rotate(131deg) !important;
 }
-
+*/
 .flyout{
   filter: hue-rotate(-131deg) !important;
 }
